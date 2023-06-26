@@ -1,0 +1,46 @@
+Holtsville NY, United States,OpenDNS,208.67.222.220
+Mountain View CA, United States,Google,8.8.8.8
+Berkeley, US,Quad9,9.9.9.9
+Miami, United States,AT&T Services,12.121.117.201
+Canoga Park, United States,Sprint,204.117.214.10
+San Francisco, US,Quad9,149.112.112.112
+Virginia, United States,VeriSign Global Registry Services,64.6.64.6
+San Jose, United States,Corporate West Computer Systems,66.206.166.2
+Burnaby, Canada,Fortinet Inc,208.91.112.53
+Yekaterinburg, Russian Federation,Skydns,195.46.39.39
+Cullinan, South Africa,Liquid Telecommunications Ltd ,5.11.11.5
+Amsterdam, Netherlands,OpenTLD BV ,80.80.80.80
+Paris, France,Online S.A.S.,163.172.107.158
+Almeria, Spain,Vodafone Ono S.A.,62.81.238.230
+Zizers, Switzerland,Oskar Emmenegger,194.209.157.109
+Innsbruck, Austria, nemox.net,83.137.41.9
+Manchester, United Kingdom,M247 Ltd,194.187.251.67
+Glostrup, Denmark,Nianet A/S,93.176.83.154
+Oberhausen, Germany,Deutsche Telekom AG,195.243.214.4
+Culiacan, Mexico,Megacable,200.52.177.186
+Santa Cruz do Sul, Brazil,Claro S.A,200.248.178.54
+Kuala Lumpur, Malaysia,Ohana Communications Sdn Bhd,103.26.250.4
+Research, Australia,Cloudflare Inc,1.1.1.1
+Adelaide, Australia,Telstra Internet,139.130.4.4
+Auckland, New Zealand,SiteHost,223.165.64.97
+Singapore,Singapore ,DigitalOcean LLC,139.59.219.245
+Seoul, South Korea,LG Dacom Corporation,164.124.101.2
+Hangzhou, China,Aliyun Computing Co. Ltd,223.5.5.5
+Izmir, Turkey,Turk Telekom,212.175.192.114
+Mumbai, India,Mahanagar Telephone Nigam Limited,203.94.227.70
+Islamabad, Pakistan,CMPak Limited,209.150.154.1
+Viana do Castelo, Portugal,CLOUDITY Network,185.83.212.30
+Ireland,Ireland,Daniel Cid,185.228.168.9
+Dhaka, Bangladesh,Kloud Technologies Limited,103.146.221.20
+Kansas City, United States,WholeSale Internet ,204.12.225.227
+Madrid, Spain,Prioritytelecom Spain S.A.,212.230.255.1
+Manchester, United Kingdom,Ancar B Technologies Ltd,194.145.240.6
+Copenhagen, Denmark,Tele Danmark,80.196.100.209
+Monterrey, Mexico,Marcatel Com,200.56.224.11
+Shah Alam, Malaysia,TT Dotcom Sdn Bhd,211.25.206.147
+Melbourne, Australia,Pacific Internet,61.8.0.113
+Auckland, New Zealand,ICONZ Ltd,210.48.77.68
+Shenzhen, China,Shenzhen Sunrise Technology Co. Ltd.,202.46.34.75
+Antalya, Turkey,Teknet Yazlim,31.7.37.37
+Coimbatore, India,AirDesign Broadcast Media Pvt Ltd,103.194.240.35
+Kaharole, Bangladesh,Md Masud Rana Roni,103.157.237.34

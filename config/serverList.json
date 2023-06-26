@@ -1,0 +1,438 @@
+{
+    "DNSID-1": {
+        "City/Stat": "Holtsville NY",
+        "Country": "United States",
+        "Company": "OpenDNS",
+        "IP": "208.67.222.220",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-2": {
+        "City/Stat": "Mountain View CA",
+        "Country": "United States",
+        "Company": "Google",
+        "IP": "8.8.8.8",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-3": {
+        "City/Stat": "Berkeley",
+        "Country": "US",
+        "Company": "Quad9",
+        "IP": "9.9.9.9",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-4": {
+        "City/Stat": "Miami",
+        "Country": "United States",
+        "Company": "AT&T Services",
+        "IP": "12.121.117.201",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-5": {
+        "City/Stat": "Canoga Park",
+        "Country": "United States",
+        "Company": "Sprint",
+        "IP": "204.117.214.10",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-6": {
+        "City/Stat": "San Francisco",
+        "Country": "US",
+        "Company": "Quad9",
+        "IP": "149.112.112.112",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-7": {
+        "City/Stat": "Virginia",
+        "Country": "United States",
+        "Company": "VeriSign Global Registry Services",
+        "IP": "64.6.64.6",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-8": {
+        "City/Stat": "San Jose",
+        "Country": "United States",
+        "Company": "Corporate West Computer Systems",
+        "IP": "66.206.166.2",
+        "Enable": true,
+        "DNS": []
+    },
+    "DNSID-9": {
+        "City/Stat": "Burnaby",
+        "Country": "Canada",
+        "Company": "Fortinet Inc",
+        "IP": "208.91.112.53",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-10": {
+        "City/Stat": "Yekaterinburg",
+        "Country": "Russian Federation",
+        "Company": "Skydns",
+        "IP": "195.46.39.39",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-11": {
+        "City/Stat": "Cullinan",
+        "Country": "South Africa",
+        "Company": "Liquid Telecommunications Ltd",
+        "IP": "5.11.11.5",
+        "Enable": true,
+        "DNS": []
+    },
+    "DNSID-12": {
+        "City/Stat": "Amsterdam",
+        "Country": "Netherlands",
+        "Company": "OpenTLD BV",
+        "IP": "80.80.80.80",
+        "Enable": false,
+        "DNS": []
+    },
+    "DNSID-13": {
+        "City/Stat": "Paris",
+        "Country": "France",
+        "Company": "Online S.A.S.",
+        "IP": "163.172.107.158",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-14": {
+        "City/Stat": "Almeria",
+        "Country": "Spain",
+        "Company": "Vodafone Ono S.A.",
+        "IP": "62.81.238.230",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-15": {
+        "City/Stat": "Zizers",
+        "Country": "Switzerland",
+        "Company": "Oskar Emmenegger",
+        "IP": "194.209.157.109",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-16": {
+        "City/Stat": "Innsbruck",
+        "Country": "Austria",
+        "Company": "nemox.net",
+        "IP": "83.137.41.9",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-17": {
+        "City/Stat": "Manchester",
+        "Country": "United Kingdom",
+        "Company": "M247 Ltd",
+        "IP": "194.187.251.67",
+        "Enable": true,
+        "DNS": []
+    },
+    "DNSID-18": {
+        "City/Stat": "Glostrup",
+        "Country": "Denmark",
+        "Company": "Nianet A/S",
+        "IP": "93.176.83.154",
+        "Enable": false,
+        "DNS": []
+    },
+    "DNSID-19": {
+        "City/Stat": "Oberhausen",
+        "Country": "Germany",
+        "Company": "Deutsche Telekom AG",
+        "IP": "195.243.214.4",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-20": {
+        "City/Stat": "Culiacan",
+        "Country": "Mexico",
+        "Company": "Megacable",
+        "IP": "200.52.177.186",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-21": {
+        "City/Stat": "Santa Cruz do Sul",
+        "Country": "Brazil",
+        "Company": "Claro S.A",
+        "IP": "200.248.178.54",
+        "Enable": false,
+        "DNS": []
+    },
+    "DNSID-22": {
+        "City/Stat": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "Company": "Ohana Communications Sdn Bhd",
+        "IP": "103.26.250.4",
+        "Enable": false,
+        "DNS": []
+    },
+    "DNSID-23": {
+        "City/Stat": "Research",
+        "Country": "Australia",
+        "Company": "Cloudflare Inc",
+        "IP": "1.1.1.1",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-24": {
+        "City/Stat": "Adelaide",
+        "Country": "Australia",
+        "Company": "Telstra Internet",
+        "IP": "139.130.4.4",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-25": {
+        "City/Stat": "Auckland",
+        "Country": "New Zealand",
+        "Company": "SiteHost",
+        "IP": "223.165.64.97",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-26": {
+        "City/Stat": "Singapore",
+        "Country": "Singapore",
+        "Company": "DigitalOcean LLC",
+        "IP": "139.59.219.245",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-27": {
+        "City/Stat": "Seoul",
+        "Country": "South Korea",
+        "Company": "LG Dacom Corporation",
+        "IP": "164.124.101.2",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-28": {
+        "City/Stat": "Hangzhou",
+        "Country": "China",
+        "Company": "Aliyun Computing Co. Ltd",
+        "IP": "223.5.5.5",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-29": {
+        "City/Stat": "Izmir",
+        "Country": "Turkey",
+        "Company": "Turk Telekom",
+        "IP": "212.175.192.114",
+        "Enable": false,
+        "DNS": []
+    },
+    "DNSID-30": {
+        "City/Stat": "Mumbai",
+        "Country": "India",
+        "Company": "Mahanagar Telephone Nigam Limited",
+        "IP": "203.94.227.70",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-31": {
+        "City/Stat": "Islamabad",
+        "Country": "Pakistan",
+        "Company": "CMPak Limited",
+        "IP": "209.150.154.1",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-32": {
+        "City/Stat": "Viana do Castelo",
+        "Country": "Portugal",
+        "Company": "CLOUDITY Network",
+        "IP": "185.83.212.30",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-33": {
+        "City/Stat": "Ireland",
+        "Country": "Ireland",
+        "Company": "Daniel Cid",
+        "IP": "185.228.168.9",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-34": {
+        "City/Stat": "Dhaka",
+        "Country": "Bangladesh",
+        "Company": "Kloud Technologies Limited",
+        "IP": "103.146.221.20",
+        "Enable": false,
+        "DNS": []
+    },
+    "DNSID-35": {
+        "City/Stat": "Kansas City",
+        "Country": "United States",
+        "Company": "WholeSale Internet",
+        "IP": "204.12.225.227",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-36": {
+        "City/Stat": "Madrid",
+        "Country": "Spain",
+        "Company": "Prioritytelecom Spain S.A.",
+        "IP": "212.230.255.1",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-37": {
+        "City/Stat": "Manchester",
+        "Country": "United Kingdom",
+        "Company": "Ancar B Technologies Ltd",
+        "IP": "194.145.240.6",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-38": {
+        "City/Stat": "Copenhagen",
+        "Country": "Denmark",
+        "Company": "Tele Danmark",
+        "IP": "80.196.100.209",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-39": {
+        "City/Stat": "Monterrey",
+        "Country": "Mexico",
+        "Company": "Marcatel Com",
+        "IP": "200.56.224.11",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-40": {
+        "City/Stat": "Shah Alam",
+        "Country": "Malaysia",
+        "Company": "TT Dotcom Sdn Bhd",
+        "IP": "211.25.206.147",
+        "Enable": true,
+        "DNS": []
+    },
+    "DNSID-41": {
+        "City/Stat": "Melbourne",
+        "Country": "Australia",
+        "Company": "Pacific Internet",
+        "IP": "61.8.0.113",
+        "Enable": true,
+        "DNS": []
+    },
+    "DNSID-42": {
+        "City/Stat": "Auckland",
+        "Country": "New Zealand",
+        "Company": "ICONZ Ltd",
+        "IP": "210.48.77.68",
+        "Enable": false,
+        "DNS": []
+    },
+    "DNSID-43": {
+        "City/Stat": "Shenzhen",
+        "Country": "China",
+        "Company": "Shenzhen Sunrise Technology Co. Ltd.",
+        "IP": "202.46.34.75",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-44": {
+        "City/Stat": "Antalya",
+        "Country": "Turkey",
+        "Company": "Teknet Yazlim",
+        "IP": "31.7.37.37",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-45": {
+        "City/Stat": "Coimbatore",
+        "Country": "India",
+        "Company": "AirDesign Broadcast Media Pvt Ltd",
+        "IP": "103.194.240.35",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    },
+    "DNSID-46": {
+        "City/Stat": "Kaharole",
+        "Country": "Bangladesh",
+        "Company": "Md Masud Rana Roni",
+        "IP": "103.157.237.34",
+        "Enable": true,
+        "DNS": [
+            "5.160.13.242"
+        ]
+    }
+}
